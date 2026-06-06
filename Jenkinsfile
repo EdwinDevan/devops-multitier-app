@@ -21,7 +21,7 @@ pipeline {
                 '''
                 echo 'Multi-tier app infrastructure is starting up...'
                 sleep 3
-                echo 'Deployment successful! Access your live application at http://192.168.1.14:8081'
+                echo 'Depeloyment successful! Access your live application at http://192.168.1.14:8081'
             }
         }
     }
